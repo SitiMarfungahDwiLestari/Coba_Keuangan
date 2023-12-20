@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Coba Keuangan</string>
+    <string name="pemasukan">Pemasukan</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="entity_data">Tambah Data</string>
+    <string name="btn_submit">Submit</string>
+    <string name="add_data_title">Entry Data</string>
+    <string name="select_transaction_type">Pilih Tipe Transaksi</string>
+    <string name="select_category">Pilih Kategori</string>
+</resources>
